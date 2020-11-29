@@ -1,2 +1,2 @@
 # SEResNet
-SEResNet Code Sinppet
+SEResNet Code Snippet
